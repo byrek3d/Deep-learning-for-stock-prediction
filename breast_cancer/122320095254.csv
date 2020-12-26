@@ -1,2 +1,0 @@
-round_epochs,loss,batch_size,losses,optimizer,units
-1,0.5622689723968506,1,binary_crossentropy,Nadam,25

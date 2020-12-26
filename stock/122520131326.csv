@@ -1,2 +1,0 @@
-round_epochs,loss,root_mean_squared_error,val_loss,val_root_mean_squared_error,batch_size,dropout,epochs,losses,metric,optimizer,units_first_layer,units_second_layer
-1,0.0004718810960184783,0.02172282338142395,0.07298450917005539,0.2701564431190491,1,0,1,mean_squared_error,<tensorflow.python.keras.metrics.RootMeanSquaredError object at 0x152137750>,Adam,50,25

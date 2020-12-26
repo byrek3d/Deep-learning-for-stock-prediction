@@ -1,2 +1,0 @@
-round_epochs,loss,acc,val_loss,val_acc,batch_size,losses,metric,optimizer,units
-1,0.0013444008072838187,0.0,0.0005516242235898972,0.0,1,mean_squared_error,acc,Adam,25

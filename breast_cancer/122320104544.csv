@@ -1,3 +1,0 @@
-round_epochs,loss,root_mean_squared_error,val_loss,val_root_mean_squared_error,batch_size,losses,metric,optimizer,units
-1,0.0012325959978625178,0.03510834649205208,0.0005129637429490685,0.022648703306913376,1,mean_squared_error,<tensorflow.python.keras.metrics.RootMeanSquaredError object at 0x1a52cadad0>,Adam,25
-1,0.0011480695102363825,0.030943576246500015,0.000314732373226434,0.017740698531270027,1,mean_squared_error,<tensorflow.python.keras.metrics.RootMeanSquaredError object at 0x1a52cadad0>,Adam,50
