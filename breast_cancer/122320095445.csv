@@ -1,0 +1,17 @@
+round_epochs,loss,batch_size,losses,optimizer,units
+1,0.5604290962219238,1,binary_crossentropy,Nadam,25
+1,0.5634422898292542,1,binary_crossentropy,Nadam,50
+1,0.5607452392578125,1,binary_crossentropy,Adam,25
+1,5.179050922393799,1,binary_crossentropy,Adam,50
+1,0.0013182765105739236,1,mean_squared_error,Nadam,25
+1,0.0010452900314703584,1,mean_squared_error,Nadam,50
+1,0.0011450637830421329,1,mean_squared_error,Adam,25
+1,0.0012452967930585146,1,mean_squared_error,Adam,50
+1,0.5725007057189941,30,binary_crossentropy,Nadam,25
+1,0.5844628214836121,30,binary_crossentropy,Nadam,50
+1,5.179052829742432,30,binary_crossentropy,Adam,25
+1,5.179052829742432,30,binary_crossentropy,Adam,50
+1,0.015318898484110832,30,mean_squared_error,Nadam,25
+1,0.008908765390515327,30,mean_squared_error,Nadam,50
+1,0.010399231687188148,30,mean_squared_error,Adam,25
+1,0.005643942393362522,30,mean_squared_error,Adam,50
